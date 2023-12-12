@@ -1,0 +1,1 @@
+document.body.style.setProperty('test',"#f9f8f3")
